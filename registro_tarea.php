@@ -1,7 +1,7 @@
 <html>
 	<head>
 		<link rel="stylesheet" href="css/bootstrap.css">
-		<link rel="stylesheet" href="css/datepicker.css">
+		<link rel="stylesheet" href="../css/datepicker.css">
 		<script src="js/jquery.min.js"></script>
 		<script src="js/bootstrap.js"></script>
 		<script src="js/bootstrap-datepicker.js"></script>
